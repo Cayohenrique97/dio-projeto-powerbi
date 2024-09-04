@@ -30,3 +30,5 @@ Do conjunto de dados no arquivo (.csv), podemos encontrar várias variáveis, al
 | Outcome  | To express the final result 1 is Yes and 0 is No  |
 
 </details>
+
+![image](https://github.com/user-attachments/assets/36e81dab-ffbe-48d6-a19e-7f9790a81176)
