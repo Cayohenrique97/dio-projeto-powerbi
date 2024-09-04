@@ -15,7 +15,7 @@ Do conjunto de dados no arquivo (.csv), podemos encontrar várias variáveis, al
 
 <details>
 
-<summary><strong>Dados do database</strong></summary>
+<summary><strong>Dados do database 📊📊</strong></summary>
 
 | Colunas  | Informações |
 | :---: | :---: |
@@ -31,4 +31,15 @@ Do conjunto de dados no arquivo (.csv), podemos encontrar várias variáveis, al
 
 </details>
 
+
+
+
 ![image](https://github.com/user-attachments/assets/36e81dab-ffbe-48d6-a19e-7f9790a81176)
+
+### O que analizamos com base na amostragem de dados
+
+#### Podemos identificar que a média de idade, Insulina e Glicose do nosso database é de 33 anos, 80 de insulina e 121 de glicose. 
+
+#### Identificamos que a população mais jovem  tem maior indice de predisposição a diabetes do que os mais velhos.
+
+#### Notamos que o pico de Insulina está na faixa etaria dos 58 anos ao 60 anos, ultrapassando 200. Já da Glicose se encontra no auge na faixa etaria dos 50 aos 60 anos, ainda não tendo tanta discrepancia das demais.
